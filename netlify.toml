@@ -1,0 +1,9 @@
+[build]
+  base = "."
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "/"
+  to = "/legal.html"
+  status = 302
